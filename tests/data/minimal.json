@@ -1,0 +1,61 @@
+{
+  "sidebar": {
+    "containers": [
+      {
+        "spaces": [
+          "09B03275-FE5D-4BE4-9169-029B33E80FFB",
+          {
+            "id": "09B03275-FE5D-4BE4-9169-029B33E80FFB",
+            "containerIDs": [
+              "pinned",
+              "4A775186-CA52-42E9-837A-7930D731706D"
+            ],
+            "customInfo": {
+              "iconType": {
+                "icon": "grid"
+              }
+            },
+            "title": "workspace"
+          }
+        ],
+        "items": [
+          "FCFCD11A-DDDE-4077-B6E1-15ACC504E294",
+          {
+            "data": {
+              "tab": {
+                "savedURL": "https://topleveltab.com",
+                "savedTitle": "savedTitle"
+              }
+            },
+            "id": "FCFCD11A-DDDE-4077-B6E1-15ACC504E294",
+            "parentID": "4A775186-CA52-42E9-837A-7930D731706D",
+            "childrenIds": [],
+            "title": "A tab"
+          },
+          "ACFCD11A-DDDE-4077-B6E1-15ACC504E294",
+          {
+            "id": "ACFCD11A-DDDE-4077-B6E1-15ACC504E294",
+            "parentID": "4A775186-CA52-42E9-837A-7930D731706D",
+            "childrenIds": [
+              "BCFCD11A-DDDE-4077-B6E1-15ACC504E294"
+            ],
+            "title": "A folder"
+          },
+          "BCFCD11A-DDDE-4077-B6E1-15ACC504E294",
+          {
+            "data": {
+              "tab": {
+                "savedURL": "https://nestedtab.com",
+                "savedTitle": "nestedTitle"
+              }
+            },
+            "id": "BCFCD11A-DDDE-4077-B6E1-15ACC504E294",
+            "parentID": "ACFCD11A-DDDE-4077-B6E1-15ACC504E294",
+            "childrenIds": [],
+            "title": "A nested tab"
+          }
+        ]
+      }
+    ]
+  }
+}
